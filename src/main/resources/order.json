@@ -1,0 +1,10 @@
+{
+  "orderID":"1",
+  "clientID":"1",
+  "clientName":"Автомобильные запчасти",
+  "productID":"1",
+  "product":"Моторное масло",
+  "qnt":10,
+  "price":8.5,
+  "cost":85.0
+}
